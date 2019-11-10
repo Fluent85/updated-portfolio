@@ -1,0 +1,122 @@
+body {
+    background-color: #00008B;
+}
+
+header {
+    padding: 0px 150px 0px 150px;
+    background-color: white;
+    height: 75px;
+    border-bottom: 2px solid #cccccc;
+
+}
+h1 {
+  margin: 0px;
+  background-color: #4aaaa5;
+  color: #ffffff;
+  float: left;
+  height: 75px;
+  padding: 20px;
+  box-sizing: border-box;
+  font-weight: bold;
+  font-size: 30px;
+
+}
+
+.nav-btn {
+  color: #777777;
+  float: right;
+  height: 75px;
+  padding: 20px; 
+  box-sizing: border-box;  
+} 
+#contact{
+    padding-right: 0px;
+}
+#container{
+    margin: 30px 150px 0px 150px;
+    background-color: white;
+    overflow: auto;
+    width: 960px;
+}
+
+h2 {
+  color: #4aaaa5;
+  border-bottom: 2px solid #cccccc;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 10px;
+  font-size: 30px;
+  
+}
+
+#portfolio {
+  border-left: .5px solid;
+  border-right: .5px solid;
+  border-right-style: solid;
+  border-left-style: solid;
+  border margin: 0 0 10px;
+  border padding: 0 0 10px;
+}
+
+#text {
+width: 500px;
+float: left;
+margin-left: 10px;
+letter-spacing: 1px;
+}
+
+#profile {
+  float: left;
+}
+
+footer {
+  text-align: center;
+  background-color: #666666;
+  border-top: solid;
+  border-color: #4aaaa5;
+  border-top-width: 10px;
+  bottom: 1px;
+  width: 100%;
+  position: relative;
+  
+}
+#ipad {
+  float: left;
+  margin: 25px;
+  width: 25%;
+}
+
+#htmlcss {
+  float: left;
+  margin: 25px;
+  width: 25%;
+}
+
+#javascript {
+  float: left;
+  margin: 25px;
+  width: 25%;
+}
+
+#python {
+   float: left;
+   margin: 25px;
+   width: 25%;
+}
+
+.image-wrapper {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .card-header {
+    color: black;
+    background-color: #6c757d;
+  }
+
+
+
+
+
+  
+
